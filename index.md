@@ -5,12 +5,12 @@ permalink: /
 
 # Pépin
 
-Pages légales de l'application mobile Pépin.
+Pages légales de l'application mobile Pépin, compagnon IA.
 
 - [Politique de confidentialité](privacy/)
 - [Conditions d'utilisation](terms/)
 - [Mentions légales](legal/)
 
-English: [Privacy](en/privacy/) · [Terms](en/terms/) · [Legal notice](en/legal/)
+English: during the closed beta, Pépin is available in French only.
 
-> Brouillon : les passages `[À COMPLÉTER]` doivent être remplis et le tout relu par un juriste avant publication.
+> Version de travail du 21 novembre 2026 : les passages `[À COMPLÉTER]`, `[À CONFIRMER]` et `[À VALIDER]` doivent être remplis, et le tout relu par un juriste, avant la bêta.

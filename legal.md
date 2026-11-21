@@ -5,28 +5,26 @@ permalink: /legal/
 
 # Mentions légales
 
-[English](../en/legal/)
+*Version de travail du 21 novembre 2026.*
 
-## Éditeur
+## Éditeur de l'application
 
-- Nom : [À COMPLÉTER : nom et prénom de l'entrepreneur individuel]
-- Statut : entrepreneur individuel (micro-entreprise)
+- Nom : [À COMPLÉTER : nom de l'éditeur ou de la structure qui porte le projet]
+- Statut : [À COMPLÉTER : entrepreneur individuel, société, association…]
 - SIRET : [À COMPLÉTER]
 - Adresse : [À COMPLÉTER : adresse ou boîte postale]
 - E-mail : [À COMPLÉTER]
-- Téléphone : [À COMPLÉTER]
 - Directeur de la publication : [À COMPLÉTER]
 
-## Hébergement de cette page
+## Hébergement
 
-GitHub Pages, GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis.
+- Serveur de l'application : Scaleway SAS, 8 rue de la Ville l'Évêque, 75008 Paris, France. [À CONFIRMER à l'ouverture du compte]
+- Ces pages : GitHub Pages, GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis.
 
-## Intelligence artificielle et licences
+## Intelligence artificielle
 
-Pépin est une IA. Les modèles locaux utilisés sont soumis à leurs licences :
+Le chat de Pépin est une intelligence artificielle. Les réponses sont produites par des modèles de Mistral AI (France) et par des réponses préparées à l'avance. [À CONFIRMER à l'ouverture du compte]
 
-- **Llama 3.2** : Llama 3.2 is licensed under the Llama 3.2 Community License, Copyright © Meta Platforms, Inc. All Rights Reserved. Built with Llama. Politique d'usage acceptable : <https://www.llama.com/llama3_2/use-policy/>
-- **Qwen 3** : licence Apache 2.0.
-- **LFM 2.5** : LFM Open License v1.0 (Liquid AI).
+## Licences
 
-Les bibliothèques logicielles utilisées et leurs licences sont listées dans l'application (Réglages, À propos, Licences).
+Les bibliothèques logicielles utilisées et leurs licences sont listées dans l'application : Réglages, À propos, Licences.
